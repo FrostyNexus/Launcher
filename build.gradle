@@ -1,6 +1,6 @@
 println """
 *******************************************
- You are building SKCraft Launcher! 
+ You are building FrostyLauncher!
 
  Output files will be in [subproject]/build/libs
 *******************************************
