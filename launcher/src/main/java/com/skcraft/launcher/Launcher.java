@@ -401,7 +401,7 @@ public final class Launcher {
         if (dir != null) {
             log.info("Using given base directory " + dir.getAbsolutePath());
         } else {
-            String appDir="kookylauncher";
+            String appDir="frostylauncher";
             String homeDir = System.getProperty("user.home", ".");
             switch ( getPlatform() ) {
                 case LINUX:
